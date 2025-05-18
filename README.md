@@ -1,4 +1,4 @@
 # Python algorithm 0
-Algorithm practice by programmers
+Algorithm practice by Programmers
 
 Level 0 ~
